@@ -1,4 +1,4 @@
-@charset "UTF-8"
+@charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap');
 
 * {
@@ -210,7 +210,6 @@ body {
     gap: 45px;
 }
 
-.works ul li {}
 
 .works ul li .photo{
     height: 330px;
